@@ -18,5 +18,18 @@ My analysis focused on both foundational and advanced performance metrics. Core 
 * **Monthly customer acquisition rate trends**
 * **Average time between a customer's first and second order**
 
-These metrics were used to assess the effectiveness of acquisition strategies, customer retention patterns, and product-level performance. The end result is a comprehensive snapshot of the e-commerce business's health and a foundation for strategic planning.
+These metrics were used to assess the effectiveness of customer acquisition strategies, customer retention patterns, and product loyalty. The end result is a comprehensive snapshot of the e-commerce business's health and a guide for strategic planning and effective decision making.
+
+## Dashboards 
+
+#### Overview
+
+![Overview page for e-commerce dashboard_page-0001](https://github.com/user-attachments/assets/58f89a66-95bd-436f-bc49-443f39d58849)
+
+#### Customer retention and acquisition metrics
+
+![Customer retention metrics page for e commerce project_page-0001](https://github.com/user-attachments/assets/83915784-1471-40bd-82d9-8997f599c03c)
+
+
+[Dashboard link](https://lookerstudio.google.com/reporting/7eaeee58-2056-4e36-804c-31d1122d8119)
 
