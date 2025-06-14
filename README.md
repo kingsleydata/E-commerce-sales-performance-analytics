@@ -1,2 +1,22 @@
 # E-commerce-sales-performance-analytics
-This 
+
+## Project Overview
+
+### 
+**Why is it important to analyze sales performance and customer behavior for any e-commerce business?**
+
+Understanding customer behavior and sales performance is essential for driving sustainable growth in any e-commerce business. This project was undertaken to transform raw transaction data into actionable insights that support data-driven decision-making in areas such as marketing strategy, customer retention and revenue optimization.
+
+**What was my analysis focused on?:**
+
+My analysis focused on both foundational and advanced performance metrics. Core KPIs included **total revenue**, **unique customers** and **average order value (AOV)**. To gain deeper insights, the project also explored:
+
+* **Revenue trends** using a 3-month rolling average
+* **Repeat purchase rate** overall and by product
+* **Average customer lifetime value (CLV)**
+* **Average customer acquisition cost (CAC)**
+* **Monthly customer acquisition rate trends**
+* **Average time between a customer's first and second order**
+
+These metrics were used to assess the effectiveness of acquisition strategies, customer retention patterns, and product-level performance. The end result is a comprehensive snapshot of the e-commerce business's health and a foundation for strategic planning.
+
