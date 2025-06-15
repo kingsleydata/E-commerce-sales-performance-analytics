@@ -95,3 +95,15 @@ My analysis focused on both foundational and advanced performance metrics. Core 
 - ##### Leverage high demand products to drive acquisition and loyalty among customers.
 - ##### Run surveys on the website to see what customers truly feel about products with very low repurchase rate and adjust accordingly or retire product entirely.
 - ##### Keep track of the UK market since it is the cash cow of the business but find ways to attract customers from other countries in order to reduce dependency.
+
+### My core skills
+- #### Data analysis
+- #### Data warehousing and modelling. (I will create one source of truth for all insights about your business)
+- #### Data visualization
+- #### Advanced data analysis with SQL (every single business metric can be tracked and understood with SQL)
+
+### Major career achievement 
+- #### Applying my analytical skills which brought about an increase in revenue for a medium scale retail business from 4.53% in Q1 2024 to 21.71% in Q4 2024 by simply cutting out waste, redundant product purchases and optimizing inventory management. Image can be seen below.
+
+![Data career achievement](https://github.com/user-attachments/assets/d0659525-d742-4623-a622-a72906bfab0d)
+
