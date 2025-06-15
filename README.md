@@ -18,7 +18,7 @@ My analysis focused on both foundational and advanced performance metrics. Core 
 * **Monthly customer acquisition rate trends**
 * **Average time between a customer's first and second order**
 
-These metrics were used to assess the effectiveness of customer acquisition strategies, customer retention patterns, and product loyalty. The end result is a comprehensive snapshot of the e-commerce business's health and a guide for strategic planning and effective decision making.
+###### These metrics were used to assess the effectiveness of customer acquisition strategies, customer retention patterns, and product loyalty. The end result is a comprehensive snapshot of the e-commerce business's health and a guide for strategic planning and effective decision making.
 
 ## Dashboards 
 
@@ -54,16 +54,44 @@ These metrics were used to assess the effectiveness of customer acquisition stra
 
 ![Customer acquisitition rate image](https://github.com/user-attachments/assets/3b8c63ca-5e83-4db3-8991-5fcb75588ef4)
 
-##### There was a steady drop in customer acquisition rate between March 2011 and August 2011 followed by a turn around in September, this is possibly due to reduced marketing effectiveness, market saturation, or increased competition as seen in chart above.
+##### There was a steady drop in customer acquisition rate between March 2011 and August 2011 followed by a turn around in September 2011, this is possibly due to reduced marketing effectiveness, market saturation or increased competition as seen in chart above.
 
 ##### However, a strong repurchase rate suggests that existing customers are highly engaged and loyal as seen in chart below.
 
+#### Customer retention metrics
+
 ![Repurchase rate image](https://github.com/user-attachments/assets/e2ec251b-3230-47e1-8ca1-25d7b922b773)
 
-##### While high retention is a great thing, long term growth can be stalled is customer acquisition rates keep dropping.
+##### While high retention is a great thing, long term growth can be stalled if customer acquisition rate keeps dropping.
 
 ##### What should be done? 
--   ###### Review and optimize marketing efforts (reallocate marketing spend to channels bringing in more users/customers.
+-   ###### Review and optimize marketing efforts (reallocate marketing spend to acquisition channels bringing in more users/customers.
 -   ###### Launch affiliate programs for current customers and offer benefits to current customers for referring others to the business.
 
+##### How long after a user's first purchase are they likely to repurchase, this was tracked for each quarter, there is a steady downtrend 
+##### in retention after first purchase.
 
+![KPI chart for time difference between first and second purchase](https://github.com/user-attachments/assets/75aac90b-79b6-4592-82c9-cff7c2c8b599)
+
+
+![Time difference between first and second purchase customers](https://github.com/user-attachments/assets/44eacddf-9cbd-4a4a-b0da-9c40ac1abd39)
+
+  
+
+#### Repurchase rate by product
+
+![Product repurchase rate](https://github.com/user-attachments/assets/229f35e9-910a-4530-b81f-4dd77f159daf)
+
+###### Some products have a very high repurchase rate as seen in the chart above, what should be done about this?
+
+- ###### These products should be prioritized during marketing campaigns
+- ###### These products should be used to attract new customers to the business.
+- ###### These products should be cross sold with similar products so products with low repeat purchase or low sales can get a boost.
+- ###### Ensure to prevent stockouts for these products by constantly tracking inventory.
+
+#### Recommendations 
+
+- ##### Revamp new user acquisition strategies for the business.
+- ##### Leverage high demand products to drive acquisition and loyalty among customers.
+- ##### Run surveys on the website to see what customers truly feel about products with very low repurchase rate and adjust accordingly or retire product entirely.
+- ##### Keep track of the UK market since it is the cash cow of the business but find ways to attract customers from other countries in order to reduce dependency.
