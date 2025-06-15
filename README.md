@@ -63,8 +63,7 @@ There was also consistent growth in revenue from Q1 2011 till Q4 2011 as ween be
 ##### While high retention is a great thing, long term growth can be stalled is customer acquisition rates keep dropping.
 
 ##### What should be done? 
--   kdkfnf
--   fjfkfj
--   
+-   ###### Review and optimize marketing efforts (reallocate spend to channels bring in more users/customers.
+-   ###### Launch affiliate programs for current customers and offer benefits to current customers for referring others to the business.
 
 
