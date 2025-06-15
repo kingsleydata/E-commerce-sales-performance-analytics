@@ -28,7 +28,8 @@ These metrics were used to assess the effectiveness of customer acquisition stra
 
 #### Customer retention and acquisition metrics
 
-![Customer retention metrics page for e commerce project_page-0001](https://github.com/user-attachments/assets/83915784-1471-40bd-82d9-8997f599c03c)
+![retention rate metric ecom dashboard](https://github.com/user-attachments/assets/5664b615-fc23-4844-a369-fd55c00d3e47)
+
 
 
 [Dashboard link](https://lookerstudio.google.com/reporting/7eaeee58-2056-4e36-804c-31d1122d8119)
