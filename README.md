@@ -68,8 +68,8 @@ My analysis focused on both foundational and advanced performance metrics. Core 
 -   ###### Review and optimize marketing efforts (reallocate marketing spend to acquisition channels bringing in more users/customers.
 -   ###### Launch affiliate programs for current customers and offer benefits to current customers for referring others to the business.
 
-##### How long after a user's first purchase are they likely to repurchase, this was tracked for each quarter, there is a steady downtrend 
-##### in retention after first purchase.
+##### How long after a user's first purchase are they likely to repurchase, this was tracked for each quarter and there was a steady downtrend 
+##### in retention after first purchase which is great for retention.
 
 ![KPI chart for time difference between first and second purchase](https://github.com/user-attachments/assets/75aac90b-79b6-4592-82c9-cff7c2c8b599)
 
