@@ -47,7 +47,7 @@
 
 
 --QUERY FOR NEW CUSTOMER ACQUISITION RATE
---THIS TELLS US HOW MANY NEW CUSTOMERS ARE WE ATTRACTING PER MONTH
+--THIS TELLS US HOW MANY NEW CUSTOMERS THE BUSINESS IS ATTRACTING PER MONTH
 
 --2.
             WITH UNIQUE_CUSTOMERS AS   
@@ -87,7 +87,7 @@
        
 
 --QUERY FOR REPEAT PURCHASE RATE
---HOW EFFECTIVE ARE OUR PRODUCTS OR SERVICES, THIS TELLS US HOW MANY CUSTOMERS ARE COMING BACK AFTER THEIR FIRST
+--HOW EFFECTIVE ARE OUR PRODUCTS OR SERVICES, REPEAT PURCHASE RATE TELLS US HOW MANY CUSTOMERS ARE COMING BACK AFTER THEIR FIRST
 --PURCHASE OR AFTER MULTIPLE PURCHASES. A high repurchase rate indicates strong customer loyalty, satisfaction, and a positive
 --perception of a business's products and services. It suggests that customers are not only satisfied with their initial purchase 
 --but also willing to return and make repeat purchases, contributing to increased revenue and customer lifetime value.
