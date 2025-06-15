@@ -40,9 +40,9 @@ These metrics were used to assess the effectiveness of customer acquisition stra
 
 ![Revenue trend image](https://github.com/user-attachments/assets/785bda9d-055e-42de-b5f9-a694d8cde77e)
 
-The 3 month moving average (trend) for revenue saw a huge spike between September and November, this might be indicative of seasonal demand for certain products, general business growth due to better marketing or exceptional products and services being provided to customers hereby making them come back for more. 
+###### The 3 month moving average (trend) for revenue saw a huge spike between September and November, this might be indicative of seasonal demand for certain products, general business growth due to better marketing or exceptional products and services being provided to customers hereby making them come back for more. 
 
-There was also consistent growth in revenue from Q1 2011 till Q4 2011 as ween below. 
+###### There was also consistent growth in revenue from Q1 2011 till Q4 2011 as ween below. 
 
 ![Q1 to Q4 revenue growth](https://github.com/user-attachments/assets/19819d17-f09c-49df-862b-d80d13940450)
 
@@ -63,7 +63,7 @@ There was also consistent growth in revenue from Q1 2011 till Q4 2011 as ween be
 ##### While high retention is a great thing, long term growth can be stalled is customer acquisition rates keep dropping.
 
 ##### What should be done? 
--   ###### Review and optimize marketing efforts (reallocate spend to channels bring in more users/customers.
+-   ###### Review and optimize marketing efforts (reallocate marketing spend to channels bringing in more users/customers.
 -   ###### Launch affiliate programs for current customers and offer benefits to current customers for referring others to the business.
 
 
