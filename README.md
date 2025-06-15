@@ -103,7 +103,16 @@ My analysis focused on both foundational and advanced performance metrics. Core 
 - #### Advanced data analysis with SQL (every single business metric can be tracked and understood with SQL)
 
 ### Major career achievement 
-- #### Applying my analytical skills which brought about an increase in revenue for a medium scale retail business from 4.53% in Q1 2024 to 21.71% in Q4 2024 by simply cutting out waste, redundant product purchases and optimizing inventory management. Image can be seen below.
+- #### Applying my analytical skills which brought about an increase in profit for a medium scale retail business from 4.53% in Q1 2024 to 21.71% in Q4 2024 by simply cutting out waste, redundant product purchases and optimizing inventory management. Image can be seen below.
 
 ![Data career achievement](https://github.com/user-attachments/assets/d0659525-d742-4623-a622-a72906bfab0d)
 
+### Contact me via these channels:
+
+[Check my medium articles](https://medium.com/@exceldispensing)
+
+[Linkin page](www.linkedin.com/in/ifeanyi-okoye-a857911ba)
+
+### Data visualization portfolio
+
+[Data visualization portfolio](https://linktr.ee/analytics_with_kingsley)
