@@ -24,11 +24,12 @@ My analysis focused on both foundational and advanced performance metrics. Core 
 
 #### Overview
 
-![Overview page for e-commerce dashboard_page-0001](https://github.com/user-attachments/assets/58f89a66-95bd-436f-bc49-443f39d58849)
+![Overview page for e-commerce dashboard_COMPRESSED](https://github.com/user-attachments/assets/808c05be-3c64-4259-8eb5-d2680a865ac1)
+
 
 #### Customer retention and acquisition metrics
 
-![retention rate metric ecom dashboard](https://github.com/user-attachments/assets/5664b615-fc23-4844-a369-fd55c00d3e47)
+![retention rate metric ecom dashboard COMPRESSED](https://github.com/user-attachments/assets/7b0e4819-208f-4fd9-9544-38784ebd9716)
 
 
 
