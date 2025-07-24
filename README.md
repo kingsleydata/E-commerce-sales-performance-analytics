@@ -113,7 +113,7 @@ My analysis focused on both foundational and advanced performance metrics. Core 
 
 [Check my medium articles](https://medium.com/@exceldispensing)
 
-[Linkin page](www.linkedin.com/in/ifeanyi-okoye-a857911ba)
+[Linkedin page](www.linkedin.com/in/ifeanyi-okoye-a857911ba)
 
 ### Data visualization portfolio
 
